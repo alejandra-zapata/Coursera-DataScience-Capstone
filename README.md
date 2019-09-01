@@ -16,7 +16,7 @@ I'll be using the following data throughout the project:
   
   With this data source, I'll create map visualizations. 
 
-2. Average Rent in San Francisco, CA By Neighborhood. https://www.rentcafe.com/average-rent-market-trends/us/ca/san-francisco/
+2. Relational Database: Average Rent in San Francisco, CA By Neighborhood. https://www.rentcafe.com/average-rent-market-trends/us/ca/san-francisco/
 
   This data will work to find the neighborhoods that match my friend's rent budget. 
 
