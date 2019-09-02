@@ -1,26 +1,27 @@
 # Coursera-DataScience-Capstone
 
-### Introduction/Business Problem
+### Introduction:Business Problem
 
-Known for being one of the most beautiful cities in the United States, San Francisco is also known for its highly expensive housing. 
+In this project, we will try to find an optimal neighborhood for opening a restaurant. Specifically, this report will be targeted to stakeholders interested in opening a restaurant in **San Francisco**, California.
 
-My friend has communicated with me that she wants to move to the city, but she has a budget and needs my help as a data scientist. She wants to find a place that is affordable, and it is also surrounded by venues that are interesting to her. She loves good coffee, art, and hiking. 
+There are lots of restaurants in San Francisco. We will try to detect locations that are already crowded with restaurants as an indicator of high demand. At the same time, we are also particularly interested in opening a cuisine not frequently found in the city. 
 
-In this project, I'll use different data sources and knowledge to find a perfect place for my friend. 
+We will use our data science powers to generate a few most promissing neighborhoods based on this criteria. Advantages of each area, such as its average rent prices, will also be taken into account so the best possible final location can be chosen by stakeholders.
 
 ### Data 
 
-I'll be using the following data throughout the project: 
+The following data sources will be used in the project:
 
-1. GeoJSON file that marks the boundaries of the different neighborhoods in San Francisco. This file was provided in the Data Visualization course. https://cocl.us/sanfran_geojson 
-  
-  With this data source, I'll create map visualizations. 
+1. **Relational Database: Average Rent in San Francisco, CA By Neighborhood.**
+    
+    Source:  https://www.rentcafe.com/average-rent-market-trends/us/ca/san-francisco/
+    
+    This data will be used throughout the project for different purposes. For example, finding the coordinates of each neighborhood, mapping those coordinates, and finding the best possible neighborhoods based on their average rent prices.
+    
+    
+2. **Foursquare API.**
 
-2. Relational Database: Average Rent in San Francisco, CA By Neighborhood. https://www.rentcafe.com/average-rent-market-trends/us/ca/san-francisco/
-
-  This data will work to find the neighborhoods that match my friend's rent budget. 
-
-3. FourSquare API. 
-  
-  With this API, I'll find the venues that are most interesting to my friend based on the neighborhood selected. Ultimately,     helping to find the perfect place!
+    Documentation: https://developer.foursquare.com/docs
+    
+    With this API, we'll get location data of the different neighborhoods in San Francisco.
     
