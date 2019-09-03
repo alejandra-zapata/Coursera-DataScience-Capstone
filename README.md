@@ -25,3 +25,7 @@ The following data sources will be used in the project:
     
     With this API, we'll get location data of the different neighborhoods in San Francisco.
     
+
+### Presentation 
+
+https://docs.google.com/presentation/d/1K72QraqXV3Xxl0eNwbYAJW-_TlCTR5xFw6weg4ZfLEY/edit?usp=sharing
