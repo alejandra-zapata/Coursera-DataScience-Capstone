@@ -1,6 +1,6 @@
 # Coursera-DataScience-Capstone
 
-### Introduction:Business Problem
+### Introduction: Business Problem
 
 In this project, we will try to find an optimal neighborhood for opening a restaurant. Specifically, this report will be targeted to stakeholders interested in opening a restaurant in **San Francisco**, California.
 
